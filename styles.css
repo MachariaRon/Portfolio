@@ -70,3 +70,15 @@ body {
     text-align: center;
     font-size: 20px;
 }   
+
+/*----------Skills-section-------*/
+
+#skills {
+    background-color: #797609;
+    padding-top: 0%;
+}
+
+.skills-img {
+    max-width: inherit;
+    padding: 80px 0px;
+}
