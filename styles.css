@@ -159,5 +159,23 @@ body {
 /*---------Contact-me-----------*/
 #contacts {
     background-color:#d2d2d5;
-    padding-top: 0%;
+    padding-top: 100px 0;
+}
+
+.reach-me {
+    padding-top: 25px; 
+    text-align: center;
+    font-size: 40px;
+}
+
+.contentc {
+    padding-bottom: 30px;
+    text-align: center;
+}
+
+.socialaccounts img {
+    width: 60px;
+    transition: 0.5s;
+    padding-top: 10px;
+    padding-bottom: 20px;
 }
