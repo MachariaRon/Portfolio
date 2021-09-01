@@ -92,8 +92,8 @@ body {
 
 .skillsp {
     padding-top: 40px;
-    text-align: center;
-    font-size: 17px;
+    text-align: justify;
+    font-size: 18.5px;
 }
 
 /*-------Projects-Section---------*/
@@ -108,6 +108,10 @@ body {
     font-size: 40px
 }
 
+.projptxt{
+    text-align: justify;
+    font-size: 18.5px
+}
 .imgproj {
     width: 300px;
     margin-top: 20px;
@@ -124,7 +128,7 @@ body {
 }
 
 .projects {
-    padding:40px;
+    padding:50px;
 }
 
 /*-------Hobbies-Section----------*/
@@ -132,6 +136,24 @@ body {
     background-color:#797509d5;
     padding-top: 0%;
     color: #d2d2d5;
+}
+
+.headhob {
+    padding-top: 25px; 
+    text-align: left;
+    font-size: 40px;
+}
+
+.hbs {
+    padding-top: 100px; 
+    text-align: center;
+    font-size: 35px;
+}
+
+.hobbiesp {
+    padding-top: 50px;
+    text-align: justify;
+    font-size: 18.5px;
 }
 
 /*---------Contact-me-----------*/
