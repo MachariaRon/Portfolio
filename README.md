@@ -11,7 +11,7 @@ https://machariaron.github.io/Portfolio/
 ## Usage
 This will be one of my main avenues of connecting with colleagues and potential employees.
 
-#Screenshot
+## Screenshots
 <img src="img/output/portfolio.png" ></img>
 <img src="img/output/Screenshot from 2021-09-02 08-16-25.png" ></img>
 ## Contributing
